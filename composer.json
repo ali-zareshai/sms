@@ -1,5 +1,5 @@
 {
-    "name": "tzsk/sms",
+    "name": "zareshahi/sms",
     "description": "Laravel SMS Gateway Integration Package",
     "keywords": [
         "tzsk",
@@ -20,10 +20,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Kazi Ahmed",
-            "email": "mailtokmahmed@gmail.com",
-            "homepage": "https://github.com/tzsk",
-            "role": "Developer"
+            "name": "Ali zareshahi",
+            "email": "ali-zareshahi@outlook.com"
         }
     ],
     "require": {
